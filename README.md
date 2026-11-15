@@ -90,7 +90,7 @@ I'm an IT professional passionate about building practical solutions using Artif
 ## 🤝 Connect With Me
 
 - **GitHub:** [alihassanishfaq](https://github.com/alihassanishfaq)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- **LinkedIn:** [ali-hassan-a5882419b](https://www.linkedin.com/in/ali-hassan-a5882419b/)
 - **LeetCode:** [Ali_Hassan_Ishfaq](https://leetcode.com/u/Ali_Hassan_Ishfaq/)
 
 ---
