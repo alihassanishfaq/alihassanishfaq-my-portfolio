@@ -51,7 +51,7 @@ I'm an IT professional passionate about building practical solutions using Artif
 - Identified issues and verified corrections before final submission.
 
 🔗 [GitHub Repository](https://github.com/ubaidurrehman749/Abondend_but_not_forgotten)  
-🌐 (https://abandonedbutnotforgottendocs.vercel.app/)
+🌐 (https://ua-veylora.vercel.app/)
 
 ### 🌍 Pollution Sense AI — HEC Gen AI Hackathon
 
