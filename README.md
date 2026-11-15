@@ -80,8 +80,8 @@ I'm an IT professional passionate about building practical solutions using Artif
 
 ## 👨‍💻 Teaching & Leadership
 
-- Experience teaching Computer Science, C/C++, HTML, CSS, and Web Development.
-- Conducted online workshops on web technologies.
+- Experience teaching Computer Science, C/C++, HTML, CSS, Python and Web Development.
+- Conducted online workshops on Python and web technologies.
 - Mentored learners and collaborated with international teams.
 - Interested in making programming and AI education more accessible.
 
